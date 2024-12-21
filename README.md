@@ -17,6 +17,8 @@ Looking for something? You might find the section here.
 ## User Interface
 [Simple GUI Ripple module](https://devforum.roblox.com/t/simple-gui-ripple-module/3270706): Helps give your UI some animation by adding a ripple/wave effect
 
+[NeoHotbar](https://devforum.roblox.com/t/neohotbar-a-modern-customizable-hotbar-for-roblox/2738850): Modern looking hotbar with accessibility features
+
 ## Data Managers
 
 ## NPCs
