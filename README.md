@@ -9,7 +9,10 @@ Looking for something? You might find the section here.
 [**Data Manager Resources**](https://github.com/sfgij/Open-Source-Collection/blob/main/README.md#data-managers) <br />
 [**NPC Resources**](https://github.com/sfgij/Open-Source-Collection/blob/main/README.md#npcs) <br />
 [**Graphic Resources**](https://github.com/sfgij/Open-Source-Collection/blob/main/README.md#graphical) <br />
-[**Anti-Cheat/Admin Resources**](https://github.com/sfgij/Open-Source-Collection/blob/main/README.md#graphical) <br />
+[**Anti-Cheat/Admin Resources**](https://github.com/sfgij/Open-Source-Collection/blob/main/README.md#anti-cheatadmin) <br />
+[**Combat Resources**](https://github.com/sfgij/Open-Source-Collection/blob/main/README.md#combat) <br />
+[**Programming Utilites**](https://github.com/sfgij/Open-Source-Collection/blob/main/README.md#programming) <br />
+[**Misc/Other Resources**](https://github.com/sfgij/Open-Source-Collection/blob/main/README.md#others) <br />
 
 ## User Interface
 
@@ -20,3 +23,9 @@ Looking for something? You might find the section here.
 ## Graphical
 
 ## Anti-Cheat/Admin
+
+## Combat
+
+## Programming
+
+## Others
