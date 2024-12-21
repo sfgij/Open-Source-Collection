@@ -42,6 +42,7 @@ Looking for something? You might find the section here.
 [WCS](https://devforum.roblox.com/t/20-wcs-a-combat-system-framework/2843521): Framework for combat systems helps with doing tedious stuff
 
 ## Programming
+[Gigantix](https://devforum.roblox.com/t/gigantix-infinite-size-numbers-module/3307153): Bypass roblox number size limits (while being precise)
 
 ## Others
 [ZonePlus v3.2.0](https://devforum.roblox.com/t/zoneplus-v320-construct-dynamic-zones-and-effectively-determine-players-and-parts-within-their-boundaries/1017701): Construct dynamic zones and effectively determine players and parts within their boundaries
