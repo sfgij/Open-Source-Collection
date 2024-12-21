@@ -39,6 +39,7 @@ Looking for something? You might find the section here.
 [Exe 5](https://devforum.roblox.com/t/exe-5-product-exe-v5-most-stunning-admin-panel-yet/3175336): All around Admin Panel, with tiered permissions and modern UI
 
 ## Combat
+[WCS](https://devforum.roblox.com/t/20-wcs-a-combat-system-framework/2843521): Framework for combat systems helps with doing tedious stuff
 
 ## Programming
 
