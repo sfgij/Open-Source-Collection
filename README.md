@@ -27,7 +27,10 @@ Looking for something? You might find the section here.
 ## Graphical
 [Alare](https://devforum.roblox.com/t/alare-advanced-lighting-solution-for-roblox/3264629): Cool realistic lighting system
 
+[SimpleWeather](https://devforum.roblox.com/t/simpleweather-v12-a-easy-to-use-weather-module/3129898): Makes having realitic weather super easy and simple
+
 ## Anti-Cheat/Admin
+[Administer](https://devforum.roblox.com/t/administer-modern-modular-free-admin-system-12/3179989): Administer is the admin panel that’s fully yours. You control what it does, who it belongs to, its design, and everything about it.
 
 ## Combat
 
