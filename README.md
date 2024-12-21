@@ -15,11 +15,13 @@ Looking for something? You might find the section here.
 [**Misc/Other Resources**](https://github.com/sfgij/Open-Source-Collection/blob/main/README.md#others) <br />
 
 ## User Interface
+[Simple GUI Ripple module](https://devforum.roblox.com/t/simple-gui-ripple-module/3270706): Helps give your UI some animation by adding a ripple/wave effect
 
 ## Data Managers
 
 ## NPCs
-[“Boids” Flocking Swarming Simulation Luau Algorithm](https://devforum.roblox.com/t/boids-flocking-swarming-simulation-luau-algorithm-library-animated-birdbatsinsects-v13-open-source-free-model/2806062/5): Helps create swarming NPCs like with birds
+[“Boids” Flocking Swarming Simulation Luau Algorithm](https://devforum.roblox.com/t/boids-flocking-swarming-simulation-luau-algorithm-library-animated-birdbatsinsects-v13-open-source-free-model/2806062): Helps create swarming NPCs like with birds and is a BOIDs algorithm example <br />
+[SimplePath - Pathfinding](https://devforum.roblox.com/t/simplepath-pathfinding-module/1196762): Makes path finding simple and easy to do without all the extra work
 
 ## Graphical
 
