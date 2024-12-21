@@ -24,6 +24,8 @@ Looking for something? You might find the section here.
 
 [SimplePath - Pathfinding](https://devforum.roblox.com/t/simplepath-pathfinding-module/1196762): Makes path finding simple and easy to do without all the extra work
 
+[Dialogue Kit V2](https://devforum.roblox.com/t/dialogue-kit-v2-an-easy-way-to-create-interactive-dialogues-events/3106134): Create dialogue for npcs easily
+
 ## Graphical
 [Alare](https://devforum.roblox.com/t/alare-advanced-lighting-solution-for-roblox/3264629): Cool realistic lighting system
 
