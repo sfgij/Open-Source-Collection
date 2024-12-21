@@ -32,5 +32,7 @@ Looking for something? You might find the section here.
 
 ## Programming
 
-
 ## Others
+[ZonePlus v3.2.0](https://devforum.roblox.com/t/zoneplus-v320-construct-dynamic-zones-and-effectively-determine-players-and-parts-within-their-boundaries/1017701): Construct dynamic zones and effectively determine players and parts within their boundaries
+
+
