@@ -20,7 +20,8 @@ Looking for something? You might find the section here.
 ## Data Managers
 
 ## NPCs
-[“Boids” Flocking Swarming Simulation Luau Algorithm](https://devforum.roblox.com/t/boids-flocking-swarming-simulation-luau-algorithm-library-animated-birdbatsinsects-v13-open-source-free-model/2806062): Helps create swarming NPCs like with birds and is a BOIDs algorithm example <br />
+[“Boids” Flocking Swarming Simulation Luau Algorithm](https://devforum.roblox.com/t/boids-flocking-swarming-simulation-luau-algorithm-library-animated-birdbatsinsects-v13-open-source-free-model/2806062): Helps create swarming NPCs like with birds and is a BOIDs algorithm example
+
 [SimplePath - Pathfinding](https://devforum.roblox.com/t/simplepath-pathfinding-module/1196762): Makes path finding simple and easy to do without all the extra work
 
 ## Graphical
