@@ -6,8 +6,17 @@ the nooks and crannies of the internet finding the perfect open-source resource 
 Looking for something? You might find the section here.
 
 [**User Interface Resources**](https://github.com/sfgij/Open-Source-Collection/blob/main/README.md#user-interface) <br />
-[**Data Manager Resources**](https://github.com/sfgij/Open-Source-Collection/blob/main/README.md#data-managers)
+[**Data Manager Resources**](https://github.com/sfgij/Open-Source-Collection/blob/main/README.md#data-managers) <br />
+[**NPC Resources**](https://github.com/sfgij/Open-Source-Collection/blob/main/README.md#npcs) <br />
+[**Graphic Resources**](https://github.com/sfgij/Open-Source-Collection/blob/main/README.md#graphical) <br />
+[**Anti-Cheat/Admin Resources**](https://github.com/sfgij/Open-Source-Collection/blob/main/README.md#graphical) <br />
 
 ## User Interface
 
 ## Data Managers
+
+## NPCs
+
+## Graphical
+
+## Anti-Cheat/Admin
