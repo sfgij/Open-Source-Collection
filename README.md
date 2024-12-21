@@ -34,6 +34,8 @@ Looking for something? You might find the section here.
 ## Anti-Cheat/Admin
 [Administer](https://devforum.roblox.com/t/administer-modern-modular-free-admin-system-12/3179989): Administer is the admin panel that’s fully yours. You control what it does, who it belongs to, its design, and everything about it.
 
+[Exe 5](https://devforum.roblox.com/t/exe-5-product-exe-v5-most-stunning-admin-panel-yet/3175336): All around Admin Panel, with tiered permissions and modern UI
+
 ## Combat
 
 ## Programming
