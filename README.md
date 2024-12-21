@@ -6,6 +6,7 @@ the nooks and crannies of the internet finding the perfect open-source resource 
 Looking for something? You might find the section here.
 
 [**User Interface Resources**](https://github.com/sfgij/Open-Source-Collection/blob/main/README.md#user-interface)
+
 [**Data Manager Resources**](https://github.com/sfgij/Open-Source-Collection/blob/main/README.md#data-managers)
 
 ## User Interface
