@@ -19,6 +19,7 @@ Looking for something? You might find the section here.
 ## Data Managers
 
 ## NPCs
+(“Boids” Flocking Swarming Simulation Luau Algorithm)[https://devforum.roblox.com/t/boids-flocking-swarming-simulation-luau-algorithm-library-animated-birdbatsinsects-v13-open-source-free-model/2806062/5]: Helps create swarming NPCs like with birds
 
 ## Graphical
 
@@ -27,5 +28,6 @@ Looking for something? You might find the section here.
 ## Combat
 
 ## Programming
+
 
 ## Others
